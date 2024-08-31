@@ -5,3 +5,4 @@ langchain
 sentence_transformers
 pinecone-client
 openai==0.28
+geopy
